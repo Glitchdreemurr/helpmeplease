@@ -1,0 +1,15 @@
+charname: Jack
+
+EXP: 0
+
+EXPtonext: 20
+
+attack: 10
+defense: 10
+
+skills
+
+empty
+empty
+empry
+empty

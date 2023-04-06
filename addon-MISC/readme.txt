@@ -1,0 +1,1 @@
+this is where addon characters, locations, and items are stored
